@@ -1,3 +1,5 @@
+// ANDI MANDI SHANDI JISNE ISE THEEK NA KARA USKI KAT JAYE GHANTI 
+
 #include <iostream>//for basic input output
 #include <cmath>//for rounding up function
 #include <string.h>//for string compare and strings
